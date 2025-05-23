@@ -70,8 +70,9 @@ Contents:
 <b>📷 Dashboard Previews</b>
 
 Home Page View:
-![Home Page](./images/home_page.png)
+![Home Page](https://github.com/someshsn/Steel-and-Alloy/blob/main/Home%20Page.png)
 
 Dashboard View:
-![Dashboard](./images/dashboard.png)
+![Dashboard](https://github.com/someshsn/Steel-and-Alloy/blob/main/Dashboard.png)
+
 
